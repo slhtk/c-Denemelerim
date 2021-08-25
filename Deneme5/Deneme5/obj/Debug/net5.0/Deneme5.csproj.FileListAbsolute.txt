@@ -1,0 +1,16 @@
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\Deneme5.exe
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\Deneme5.deps.json
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\Deneme5.runtimeconfig.json
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\Deneme5.runtimeconfig.dev.json
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\Deneme5.dll
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\ref\Deneme5.dll
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\bin\Debug\net5.0\Deneme5.pdb
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.AssemblyInfoInputs.cache
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.AssemblyInfo.cs
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.dll
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\ref\Deneme5.dll
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.pdb
+C:\Users\slhtk\source\repos\Deneme5\Deneme5\obj\Debug\net5.0\Deneme5.genruntimeconfig.cache
