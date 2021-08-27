@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\bin\Debug\Deneme11.exe.config
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\bin\Debug\Deneme11.exe
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\bin\Debug\Deneme11.pdb
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\obj\Debug\Deneme11.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\obj\Debug\Deneme11.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\obj\Debug\Deneme11.exe
+C:\Users\slhtk\source\repos\Deneme11\Deneme11\obj\Debug\Deneme11.pdb
