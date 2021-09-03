@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\bin\Debug\İc ice for döngüsü.exe.config
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\bin\Debug\İc ice for döngüsü.exe
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\bin\Debug\İc ice for döngüsü.pdb
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\obj\Debug\İc ice for döngüsü.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\obj\Debug\İc ice for döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\obj\Debug\İc ice for döngüsü.exe
+C:\Users\slhtk\source\repos\İc ice for döngüsü\İc ice for döngüsü\obj\Debug\İc ice for döngüsü.pdb

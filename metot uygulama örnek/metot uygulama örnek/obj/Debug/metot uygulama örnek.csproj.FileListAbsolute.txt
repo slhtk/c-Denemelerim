@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\bin\Debug\metot uygulama örnek.exe.config
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\bin\Debug\metot uygulama örnek.exe
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\bin\Debug\metot uygulama örnek.pdb
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\obj\Debug\metot uygulama örnek.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\obj\Debug\metot uygulama örnek.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\obj\Debug\metot uygulama örnek.exe
+C:\Users\slhtk\source\repos\metot uygulama örnek\metot uygulama örnek\obj\Debug\metot uygulama örnek.pdb

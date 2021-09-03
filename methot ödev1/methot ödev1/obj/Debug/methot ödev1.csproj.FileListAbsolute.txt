@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\bin\Debug\methot ödev1.exe.config
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\bin\Debug\methot ödev1.exe
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\bin\Debug\methot ödev1.pdb
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\obj\Debug\methot ödev1.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\obj\Debug\methot ödev1.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\obj\Debug\methot ödev1.exe
+C:\Users\slhtk\source\repos\methot ödev1\methot ödev1\obj\Debug\methot ödev1.pdb

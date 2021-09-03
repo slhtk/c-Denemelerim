@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\obj\Debug\while döngüsü.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\obj\Debug\while döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\bin\Debug\while döngüsü.exe.config
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\bin\Debug\while döngüsü.exe
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\bin\Debug\while döngüsü.pdb
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\obj\Debug\while döngüsü.exe
+C:\Users\slhtk\source\repos\while döngüsü\while döngüsü\obj\Debug\while döngüsü.pdb

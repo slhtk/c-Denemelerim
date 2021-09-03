@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\bin\Debug\while-ornek.exe.config
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\bin\Debug\while-ornek.exe
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\bin\Debug\while-ornek.pdb
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\obj\Debug\while-ornek.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\obj\Debug\while-ornek.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\obj\Debug\while-ornek.exe
+C:\Users\slhtk\source\repos\while-ornek\while-ornek\obj\Debug\while-ornek.pdb

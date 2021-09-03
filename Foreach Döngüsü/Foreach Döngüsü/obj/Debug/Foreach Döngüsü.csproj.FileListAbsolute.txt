@@ -1,0 +1,7 @@
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\bin\Debug\Foreach Döngüsü.exe.config
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\bin\Debug\Foreach Döngüsü.exe
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\bin\Debug\Foreach Döngüsü.pdb
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.csproj.AssemblyReference.cache
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.exe
+C:\Users\slhtk\source\repos\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.pdb
